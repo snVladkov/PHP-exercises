@@ -108,8 +108,9 @@
 <div class="row">
     <form class="mb-4">
         <div class="input-group">
+            <input type="hidden" name="page" value="products">
             <input type="text" class="form-control" placeholder="Търси продукт">
-            <button class="btn btn-primary" type="button">Търсене</button>
+            <button class="btn btn-primary" type="submit">Търсене</button>
         </div>
     </form>
 </div>
