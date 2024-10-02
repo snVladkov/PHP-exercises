@@ -35,7 +35,7 @@
             </div>
         </nav>
     </header>
-    <main class="container d-flex align-center py-4" style="min-height:80vh;">
+    <main class="container py-4" style="min-height:80vh;">
 
     </main>
     <footer class="bg-dark text-center py-5 mt-auto">
