@@ -19,17 +19,17 @@
 $users = [
     [
         'email' => 'john@gmail.com',
-        'password' => '123456'
-        'name' => 'John Jones'
+        'password' => '123456',
+        'name' => 'John Jones',
     ],
     [
         'email' => 'ana@gmail.com',
-        'password' => 'qwerty'
-        'name' => 'Ana Smith'
+        'password' => 'qwerty',
+        'name' => 'Ana Smith',
     ],
     [
         'email' => 'ivan@gmail.com',
-        'password' => 'asd123'
-        'name' => 'Ivan Ivanov'
+        'password' => 'asd123',
+        'name' => 'Ivan Ivanov',
     ],
 ];
