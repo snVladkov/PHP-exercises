@@ -1,5 +1,5 @@
 <?php
-    // страница login
+    // страница register
 ?>
 
 <form class="border rounded p-4 w-50 mx-auto">
