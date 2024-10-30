@@ -18,7 +18,7 @@
     </div>
     <div class="mb-3">
         <label for="repeat_password" class="form-label">Повтори парола</label>
-        <input type="repeat_password" class="form-control" id="repeat_password">
+        <input type="password" class="form-control" id="repeat_password">
     </div>
     <button type="submit" class="btn btn-primary mx-auto">Регистрирай се</button>
 </form>
